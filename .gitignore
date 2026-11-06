@@ -1,0 +1,4 @@
+/bin/
+/quote-engine
+*.exe
+.DS_Store

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "south-express",
+    "origin": "SAO",
+    "destination": "CWB",
+    "formula": "12.5 + weight * 2.4"
+  },
+  {
+    "id": "south-express",
+    "origin": "SAO",
+    "destination": "POA",
+    "formula": "18 + weight * 2.1"
+  },
+  {
+    "id": "coastal",
+    "origin": "SAO",
+    "destination": "RIO",
+    "formula": "9 + weight * 1.8"
+  },
+  {
+    "id": "north",
+    "origin": "SAO",
+    "destination": "FOR",
+    "formula": "35 + weight * 3.2"
+  }
+]
